@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="name__">Name</string>
+    <string name="enquiry_details_">Enquiry Details..</string>
+    <string name="hash">#</string>
+    <string name="number_of_days">Number of days</string>
+    <string name="room_type">Room Type</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="calculate">Calculate</string>
+    <string name="view">View</string>
+    <string name="clear">Clear</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="room_reservation">Room Reservation</string>
+    <string name="insert">Insert</string>
+    <string name="total_price">Total Price:</string>
+    <string name="full_name">Full name</string>
+
+    <string-array name="rooms">
+        <item>Twin room</item>
+        <item>Deluxe Twin room</item>
+        <item>King room</item>
+        <item>Deluxe King Room</item>
+        <item>Grand Executive Suite</item>
+    </string-array>
+</resources>
